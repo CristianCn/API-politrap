@@ -45,3 +45,5 @@ Thumbs.db
 # Initial DB 
 bin/proposals.json
 bin/politicians.json
+
+.env
